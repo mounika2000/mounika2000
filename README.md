@@ -1,5 +1,5 @@
 
- ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+ ## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
  ![](https://visitor-badge.glitch.me/badge?page_id=mounika2000.mounika2000)
  <br>
 Hi, I'm [Sai Mounika](https://drive.google.com/file/d/18Sr2JZ2GO2cp-1MlP31LjCRocte0XNlj/view?usp=sharing), a Computer Science Student 🚀 from India, studying at [@Shiv Nadar University](https://snu.edu.in/). Beside's programming, I enjoy reading books and sketching.
@@ -17,7 +17,7 @@ You can find me on
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/peteti-sai-mounika-b2312b189/) 
 <a href="mailto:peteti.mouni@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
-**Languages and Tools:**  
+### Languages and Tools: 
 ---
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -35,7 +35,7 @@ You can find me on
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br>
 ---
-## Check out my Projects
+### Check out my Projects 😎
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Local_MarketPlace-React-JS&theme=vision-friendly-dark)](https://github.com/mounika2000/Local_MarketPlace-React-JS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Hypothesis-Testing_Textual-Entailment&theme=vision-friendly-dark)](https://github.com/mounika2000/Hypothesis-Testing_Textual-Entailment)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Cards&theme=vision-friendly-dark)](https://github.com/mounika2000/Cards)
@@ -47,7 +47,7 @@ You can find me on
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounika2000&layout=compact&theme=vision-friendly-dark)](https://github.com/mounika2000/Hypothesis-Testing_Textual-Entailment)
 
-## Find Me Elsewhere
+### Find Me Elsewhere 📢
 <p align="left">
           <a href="https://www.codechef.com/users/mounika2000">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
