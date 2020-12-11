@@ -36,26 +36,20 @@ You can find me on
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br>
-<a href="https://github.com/mounika2000/Local_MarketPlace-React-JS" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Local_MarketPlace-React-JS&theme=dark" />
-</a>
-<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
-</a>
 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Local_MarketPlace-React-JS&theme=dracula)](https://github.com/mounika2000/Local_MarketPlace-React-JS)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Local_MarketPlace-React-JS&theme=dark)](https://github.com/mounika2000/Local_MarketPlace-React-JS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Hypothesis-Testing_Textual-Entailment&theme=dark)](https://github.com/mounika2000/Hypothesis-Testing_Textual-Entailment)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Cards&theme=dark)](https://github.com/mounika2000/Cards)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Classification-of-EMails&theme=dark)](https://github.com/mounika2000/Classification-of-EMails)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Sudoku-Solver&theme=dark)](https://github.com/mounika2000/Sudoku-Solver)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Hypothesis-Testing_Textual-Entailment&theme=dracula)](https://github.com/mounika2000/Hypothesis-Testing_Textual-Entailment)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Cards&theme=dracula)](https://github.com/mounika2000/Cards)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Classification-of-EMails&theme=dracula)](https://github.com/mounika2000/Classification-of-EMails)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Sudoku-Solver&theme=dracula)](https://github.com/mounika2000/Sudoku-Solver)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Text-Editor-Using-Java&theme=dark)](https://github.com/mounika2000/Text-Editor-Using-Java)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Product-Service-ChatBot&theme=dark)](https://github.com/mounika2000/Product-Service-ChatBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Text-Editor-Using-Java&theme=dracula)](https://github.com/mounika2000/Text-Editor-Using-Java)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Product-Service-ChatBot&theme=dracula)](https://github.com/mounika2000/Product-Service-ChatBot)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Face-Mask-Detection&theme=dark)](https://github.com/mounika2000/Face-Mask-Detection)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounika2000&layout=compact&theme=dark)](https://github.com/mounika2000/Hypothesis-Testing_Textual-Entailment)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Face-Mask-Detection&theme=dracula)](https://github.com/mounika2000/Face-Mask-Detection)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounika2000&layout=compact&theme=dracula)](https://github.com/mounika2000/Hypothesis-Testing_Textual-Entailment)
 
 
 <hr>
