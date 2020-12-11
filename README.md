@@ -48,12 +48,13 @@ You can find me on
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounika2000&layout=compact&theme=vision-friendly-dark)](https://github.com/mounika2000/Hypothesis-Testing_Textual-Entailment)
 ---
+<!--
 ### Find Me Elsewhere 📢
 <p align="left">
           <a href="https://www.codechef.com/users/mounika2000">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-  
+  <!--
   <a href="https://leetcode.com/sp996/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
@@ -61,7 +62,7 @@ You can find me on
 
 
 
----
+-->
 
 <details>
 <summary>📈 My GitHub Stats</summary>
