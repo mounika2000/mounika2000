@@ -2,18 +2,16 @@
  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
  ![](https://visitor-badge.glitch.me/badge?page_id=mounika2000.mounika2000)
  <br>
-Hi, I'm [Sai Mounika](https://blog), a Computer Science Student 🚀 from India, studying at [@Shiv Nadar University](https://snu.edu.in/). Beside's programming, I enjoy eating reading books and sketching.
+Hi, I'm [Sai Mounika](https://drive.google.com/file/d/18Sr2JZ2GO2cp-1MlP31LjCRocte0XNlj/view?usp=sharing), a Computer Science Student 🚀 from India, studying at [@Shiv Nadar University](https://snu.edu.in/). Beside's programming, I enjoy reading books and sketching.
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="450" height="220" /> 
 
-- 🔭 I’m currently working an interesting project
+- 🔭 I’m currently pursuing Computer Science
 - 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on UI/UX, JavaScript, React, NLP projects
 - 💬 Ask me about me about anything.
-- 📫 How to reach me: ...
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can align elements in CSS all by myself.
 
 You can find me on
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/peteti-sai-mounika-b2312b189/) 
@@ -32,12 +30,12 @@ You can find me on
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png"></code>
 
-
+---
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br>
-
-
+---
+## Check out my Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Local_MarketPlace-React-JS&theme=vision-friendly-dark)](https://github.com/mounika2000/Local_MarketPlace-React-JS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Hypothesis-Testing_Textual-Entailment&theme=vision-friendly-dark)](https://github.com/mounika2000/Hypothesis-Testing_Textual-Entailment)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Cards&theme=vision-friendly-dark)](https://github.com/mounika2000/Cards)
@@ -48,6 +46,18 @@ You can find me on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Face-Mask-Detection&theme=vision-friendly-dark)](https://github.com/mounika2000/Face-Mask-Detection)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounika2000&layout=compact&theme=vision-friendly-dark)](https://github.com/mounika2000/Hypothesis-Testing_Textual-Entailment)
+
+## Find Me Elsewhere
+<p align="left">
+          <a href="https://www.codechef.com/users/mounika2000">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/sp996/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+          </p>
+
 
 
 <hr>
