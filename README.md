@@ -36,6 +36,15 @@ You can find me on
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <br>
+<a href="https://github.com/mounika2000/Local_MarketPlace-React-JS" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Local_MarketPlace-React-JS&theme=dark" />
+</a>
+<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
+</a>
+
+
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Local_MarketPlace-React-JS&theme=dark)](https://github.com/mounika2000/Local_MarketPlace-React-JS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Hypothesis-Testing_Textual-Entailment&theme=dark)](https://github.com/mounika2000/Hypothesis-Testing_Textual-Entailment)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Cards&theme=dark)](https://github.com/mounika2000/Cards)
