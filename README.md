@@ -2,16 +2,17 @@
  ## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
  ![](https://visitor-badge.glitch.me/badge?page_id=mounika2000.mounika2000)
  <br>
-Hi, I'm [Sai Mounika](https://drive.google.com/file/d/18Sr2JZ2GO2cp-1MlP31LjCRocte0XNlj/view?usp=sharing), a Computer Science Student 🚀 from India, studying at [@Shiv Nadar University](https://snu.edu.in/). Beside's programming, I enjoy reading books and sketching.
+Hi, I'm [Sai Mounika](https://drive.google.com/file/d/18Sr2JZ2GO2cp-1MlP31LjCRocte0XNlj/view?usp=sharing), a Computer Science Student 🚀 from India, studying at [@Shiv Nadar University](https://snu.edu.in/). Beside's programming, I enjoy reading books and sketching. 🎨 I'm always open to new opportunites. I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓.
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="450" height="220" /> 
 
 - 🔭 I’m currently pursuing Computer Science
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript and React
 - 👯 I’m looking to collaborate on UI/UX, JavaScript, React, NLP projects
 - 💬 Ask me about me about anything.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can align elements in CSS all by myself.
+- 💻 Anything and everything that can be classified as technology fascinates me
 
 You can find me on
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/peteti-sai-mounika-b2312b189/) 
@@ -32,9 +33,8 @@ You can find me on
 
 ---
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-<br>
----
+<!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
+
 ### Check out my Projects 😎
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Local_MarketPlace-React-JS&theme=vision-friendly-dark)](https://github.com/mounika2000/Local_MarketPlace-React-JS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Hypothesis-Testing_Textual-Entailment&theme=vision-friendly-dark)](https://github.com/mounika2000/Hypothesis-Testing_Textual-Entailment)
