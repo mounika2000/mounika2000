@@ -40,14 +40,10 @@ You can find me on
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Hypothesis-Testing_Textual-Entailment&theme=dark)](https://github.com/mounika2000/Hypothesis-Testing_Textual-Entailment)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Cards&theme=dark)](https://github.com/mounika2000/Cards)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Classification-of-EMails&theme=dark)](https://github.com/mounika2000/Classification-of-EMails)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Product-Service-ChatBot&theme=dark)](https://github.com/mounika2000/Product-Service-ChatBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Text-Editor-Using-Java&theme=dark)](https://github.com/mounika2000/Text-Editor-Using-Java)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Sudoku-Solver&theme=dark)](https://github.com/mounika2000/Sudoku-Solver)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Face-Mask-Detection&theme=dark)](https://github.com/mounika2000/Face-Mask-Detection)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Text-Editor-Using-Java&theme=dark)](https://github.com/mounika2000/Text-Editor-Using-Java)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mounika2000&repo=Sudoku-Solves&theme=dark)](https://github.com/mounika2000/Sudoku-Solver)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mounika2000&layout=compact&theme=dark)](https://github.com/mounika2000/Hypothesis-Testing_Textual-Entailment)
 
 <hr>
