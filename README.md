@@ -10,12 +10,11 @@ I create inspiring and eye catching visuals, you can check them out [here](https
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="450" height="220" /> 
 
 - 🔭 Currently working at Adobe, Noida.
-- 📚 Graduated from Shiv Nadar University with a Major in Computer Science snd Minor in Design.
+- 📚 Graduated from Shiv Nadar University with a Major in Computer Science and Minor in Design.
 - 🖇 Previously interned at Dell Technologies and RSA Securities. 
-- 🌱 My current tech stack: C++, JavaScript, React
+- 🌱 My current tech stack: C++, JavaScript, React.
 - 👯 I'm interested in topics at the intersection of Design and technology.
 - 🦾 Areas of Interest: Human Computer Interaction, Graphics, Animation and Visualization.
-- 💬 Ask me about me about anything.
 - ⚡ Fun fact: I can align elements in CSS all by myself.
 - 💻 Anything and everything that can be classified as technology fascinates me
 
