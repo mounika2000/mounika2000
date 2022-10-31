@@ -3,21 +3,28 @@
  ---
  ![](https://visitor-badge.glitch.me/badge?page_id=mounika2000.mounika2000)
  <br>
-Hi, I'm [Sai Mounika](https://drive.google.com/file/d/18Sr2JZ2GO2cp-1MlP31LjCRocte0XNlj/view?usp=sharing), a Computer Science Student 🚀 from India, studying at [@Shiv Nadar University](https://snu.edu.in/). Beside's programming, I enjoy reading books and sketching. 🎨 I'm always open to new opportunites. I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓.
+Hi, I'm [Sai Mounika](https://drive.google.com/file/d/18Sr2JZ2GO2cp-1MlP31LjCRocte0XNlj/view?usp=sharing), a Computer Science Grad🚀 from India, working at @Adobe. Beside's programming, I enjoy reading books and sketching. 🎨 I'm always open to new opportunites. I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓.
+
+I create inspiring and eye catching visuals, you can check them out [here](https://instagram.com/mounika.studio)
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="450" height="220" /> 
 
-- 🔭 I’m currently pursuing Computer Science
-- 🌱 I’m currently learning JavaScript and React
-- 👯 I’m looking to collaborate on UI/UX, JavaScript, React, NLP projects
+- 🔭 Currently working at Adobe, Noida.
+- 📚 Graduated from Shiv Nadar University with a Major in Computer Science snd Minor in Design.
+- 🖇 Previously interned at Dell Technologies and RSA Securities. 
+- 🌱 My current tech stack: C++, JavaScript, React
+- 👯 I'm interested in topics at the intersection of Design and technology.
+- 🦾 Areas of Interest: Human Computer Interaction, Graphics, Animation and Visualization.
 - 💬 Ask me about me about anything.
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can align elements in CSS all by myself.
 - 💻 Anything and everything that can be classified as technology fascinates me
 
 You can find me on
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/peteti-sai-mounika-b2312b189/) 
 <a href="mailto:peteti.mouni@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://www.twitter.com/mounika_2000) 
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://instagram.com/mounika.studio) 
+
 ---
 ### Languages and Tools: 
 
